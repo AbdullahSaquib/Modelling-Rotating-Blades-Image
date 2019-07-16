@@ -58,14 +58,3 @@ class Blade(object):
     @classmethod
     def set_ts(cls, ts):
         cls.ts = ts
-
-
-# w = deg_to_rad(10)
-# omg = deg_to_rad(2 * 360)
-#
-# b1 = Blade(m.pi/2, w, omg)
-# b2 = Blade(3*m.pi/2, w, omg)
-#
-# for i in range(0, 360, 1):
-#     p = deg_to_rad(i)
-#     print(i, b1.Pr(p) + b2.Pr(p))
