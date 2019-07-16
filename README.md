@@ -10,4 +10,4 @@ This files imports the Blade class and creates four Blades. To plot the opacity 
 draw2.py
 This file is just looped vesion of draw1.py. It was used to create many images of varying angular speed and exposure time in one go. This is actually used to generate the images used in the PDF version of the project. However, the output images are .eps file.
 
-Folder 'Rotating Blade Images' contains the simulated fan blades images at varying angular speed and varying exposure time.
+Folder 'Rotating Blade Images' contains the simulated fan blades images at varying angular speed and varying exposure time. It also contains the images of actual rotating blades.
