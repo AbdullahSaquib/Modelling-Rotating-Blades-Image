@@ -1,3 +1,8 @@
+""" This file is a looped version of draw1.py
+    For illustration of the code lines please
+    look at draw1.py
+"""
+
 import turtle
 from rfb import Blade
 from conversions import deg_to_rad
@@ -8,7 +13,9 @@ r = 100
 dp = 1
 
 
-for i in range(360, 361, 10):
+# The following loop will loop draw1.py over different angular speed
+
+for i in range(0, 361, 10):
     p = 0
     w = deg_to_rad(10)
     if i == 0:
