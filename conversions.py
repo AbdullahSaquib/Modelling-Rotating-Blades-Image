@@ -1,3 +1,7 @@
+"""This file contains methods used for conversions between
+   different units
+"""
+
 import math
 
 """
