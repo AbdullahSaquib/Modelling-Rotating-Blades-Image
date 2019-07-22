@@ -1,6 +1,9 @@
 # Modelling-Rotating-Blades-Image
 Modelling an Image of Rotating Fan Blades Captured By a Camera
 
+Modelling an Image of Rotating Fan Blades Captured By a Camera.pdf
+This PDF file contains the abstract, introduction, theory, mathematical models, simulations pictures and conclusion of the project. 
+
 rfb.py
 This file contains a class named Blade. The class Blade has methods which can evaluate Blade occupation time (tc), restricted blade occupation time (tr), and opacity (Pr). The attributes of the Blade class are the width (w), angular speed (omg), initial position (pi), final position after exposure time (pf). Blade has a class attribute named ts, which stores the exposure time of the camera. The class method set_ts can be used to set the value of exposure time at runtime. 
 
